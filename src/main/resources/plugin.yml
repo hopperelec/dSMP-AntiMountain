@@ -1,0 +1,9 @@
+name: AntiMountain
+version: ${project.version}
+main: uk.co.hopperelec.mc.dsmpantimountain.Main
+api-version: 1.16
+prefix: AntiMountain
+authors: [ HopperElecYT ]
+description: Stops playing interacting with the mountains on the custom Demonetized SMP season 2 map
+website: hopperelec.co.uk
+depend: [ OpenTerrainGenerator ]
