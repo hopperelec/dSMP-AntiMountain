@@ -1,6 +1,6 @@
 name: AntiMountain
 version: ${project.version}
-main: uk.co.hopperelec.mc.dsmpantimountain.Main
+main: uk.co.hopperelec.mc.dsmpantimountain.AntiMountain
 api-version: 1.16
 prefix: AntiMountain
 authors: [ HopperElecYT ]
